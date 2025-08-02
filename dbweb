@@ -6,7 +6,13 @@
     "expired": "undefined"
   },
   {
+    "username": "admin",
+    "key": "supersecure"
+  },
+  {
     "username": "user123",
-    "key": "pass456"
+    "key": "pass456",
+    "role": "undefined",
+    "expired": "undefined"
   }
 ]
